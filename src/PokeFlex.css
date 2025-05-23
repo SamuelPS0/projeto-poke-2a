@@ -1,0 +1,10 @@
+.PokeFlex {
+    display: Flex;
+    flex-direction: column;
+    width: 500px;
+}
+img{
+    
+    width: 100px;
+    height: 80px;
+}
